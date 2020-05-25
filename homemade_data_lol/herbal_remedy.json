@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Aloe Vera",
-    "image": "imageurl",
+    "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/aloevera.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Aloe_vera",
     "video_url": "https://www.youtube.com/results?search_query=aloe+vera",
     "description": {
@@ -13,7 +13,7 @@
   {
     "id": 1,
     "name": "Astralagus",
-    "image": "inse",
+    "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/adaptogen_astralagus.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Astragalus",
     "video_url": "https://www.youtube.com/results?search_query=astralagus",
     "description": {
@@ -25,7 +25,7 @@
   {
     "id": 2,
     "name": "Basil",
-    "image": "inse",
+    "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/basil.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Basil",
     "video_url": "https://www.youtube.com/results?search_query=basil",
     "description": {
@@ -36,7 +36,7 @@
   {
     "id": 3,
     "name": "Cayenne",
-    "image": "inse",
+    "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/cayenne.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Cayenne_pepper",
     "video_url": "https://www.youtube.com/results?search_query=cayenne+pepper",
     "description": {
@@ -47,7 +47,7 @@
   {
     "id": 4,
     "name": "Chamomile",
-    "image": "inse",
+    "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/chamomile.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Chamomile",
     "video_url": "https://www.youtube.com/results?search_query=chamomile",
     "description": {
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "name": "Comfrey",
-    "image": "inse",
+    "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/comfrey.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Symphytum",
     "video_url": "https://www.youtube.com/results?search_query=comfrey",
     "description": {
