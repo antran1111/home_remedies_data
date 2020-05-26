@@ -1,10 +1,11 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "Aloe Vera",
     "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/aloevera.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Aloe_vera",
     "video_url": "https://www.youtube.com/results?search_query=aloe+vera",
+    "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
     "description": {
       "title": "Aloe Vera is great!",
       "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
@@ -16,6 +17,7 @@
     "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/adaptogen_astralagus.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Astragalus",
     "video_url": "https://www.youtube.com/results?search_query=astralagus",
+    "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
     "description": {
       "title": "Astralagus is the cure!",
       "long_paragraph": "blabla bla bla b la this is a long paragraph for Astralagus paragraph2 lblblblblblblalbla"
@@ -28,6 +30,7 @@
     "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/basil.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Basil",
     "video_url": "https://www.youtube.com/results?search_query=basil",
+    "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
     "description": {
       "title": "Basil's are delicious!",
       "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
@@ -39,6 +42,7 @@
     "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/cayenne.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Cayenne_pepper",
     "video_url": "https://www.youtube.com/results?search_query=cayenne+pepper",
+    "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
     "description": {
       "title": "Cayenne's are spicy great!",
       "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
@@ -50,6 +54,7 @@
     "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/chamomile.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Chamomile",
     "video_url": "https://www.youtube.com/results?search_query=chamomile",
+    "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
     "description": {
       "title": "Chamomile is great!",
       "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
@@ -61,33 +66,10 @@
     "image": "https://raw.githubusercontent.com/antran1111/home_remedies_data/master/images/comfrey.PNG",
     "read_more_url": "https://en.wikipedia.org/wiki/Symphytum",
     "video_url": "https://www.youtube.com/results?search_query=comfrey",
+    "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
     "description": {
       "title": "Comfrey is great!",
       "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
       }
-  },
-
-  {
-    "id": 10,
-    "name": "Clementina DuBuque",
-    "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
-    "address": {
-      "street": "Kattie Turnpike",
-      "suite": "Suite 198",
-      "city": "Lebsackbury",
-      "zipcode": "31428-2261",
-      "geo": {
-        "lat": "-38.2386",
-        "lng": "57.2232"
-      }
-    },
-    "phone": "024-648-3804",
-    "website": "ambrose.net",
-    "company": {
-      "name": "Hoeger LLC",
-      "catchPhrase": "Centralized empowering task-force",
-      "bs": "target end-to-end models"
-    }
   }
 ]
