@@ -6,10 +6,7 @@
     "webUrl": "https://en.wikipedia.org/wiki/Aloe_vera",
     "youTubeUrl": "https://www.youtube.com/results?search_query=aloe+vera",
     "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
-    "description": {
-      "title": "Aloe Vera is great!",
-      "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
-      }
+
   },
   {
     "title": 1,
@@ -18,10 +15,7 @@
     "webUrl": "https://en.wikipedia.org/wiki/Astragalus",
     "youTubeUrl": "https://www.youtube.com/results?search_query=astralagus",
     "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
-    "description": {
-      "title": "Astralagus is the cure!",
-      "long_paragraph": "blabla bla bla b la this is a long paragraph for Astralagus paragraph2 lblblblblblblalbla"
-      }
+
   },
 
   {
@@ -31,10 +25,7 @@
     "webUrl": "https://en.wikipedia.org/wiki/Basil",
     "youTubeUrl": "https://www.youtube.com/results?search_query=basil",
     "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
-    "description": {
-      "title": "Basil's are delicious!",
-      "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
-      }
+
   },
   {
     "title": 3,
@@ -43,10 +34,7 @@
     "webUrl": "https://en.wikipedia.org/wiki/Cayenne_pepper",
     "youTubeUrl": "https://www.youtube.com/results?search_query=cayenne+pepper",
     "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
-    "description": {
-      "title": "Cayenne's are spicy great!",
-      "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
-      }
+
   },
   {
     "title": 4,
@@ -55,10 +43,7 @@
     "webUrl": "https://en.wikipedia.org/wiki/Chamomile",
     "youTubeUrl": "https://www.youtube.com/results?search_query=chamomile",
     "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
-    "description": {
-      "title": "Chamomile is great!",
-      "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
-      }
+
   },
   {
     "title": 5,
@@ -67,9 +52,6 @@
     "webUrl": "https://en.wikipedia.org/wiki/Symphytum",
     "youTubeUrl": "https://www.youtube.com/results?search_query=comfrey",
     "long_sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis posuere leo. Phasellus elit erat, fringilla eget varius quis, convallis fringilla nisl. Quisque auctor ultrices nunc, ac volutpat tortor feugiat non. Aliquam laoreet eros ac odio porta, eget auctor sem imperdiet. Praesent posuere ut ipsum eu iaculis. Donec ultricies nulla nec laoreet fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
-    "description": {
-      "title": "Comfrey is great!",
-      "long_paragraph": "blabla bla bla b la this is a long paragraph lol"
-      }
+
   }
 ]
