@@ -4,27 +4,101 @@
   "facts": [
     {
       "id": 1,
-      "title": "Computers run on binary code that means their software is written using only 1s and 0s",
-      "description": "",
+      "title": "Covid 19 investigation reveals",
+      "description": "An alarming investigation reveals the coronavirus may have been claiming victims in the United States even earlier than previously thought. Hear how Covid-19 has been covering its tracks by cutting people’s brake lines as far back as January.",
+      "youtube_url": "https://www.youtube.com/watch?v=wyzgyJg8b10",
       "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-1.png"
-      "youtube_url": ""
+
     },
     {
       "id": 2,
-      "title": "The First Gigabyte Drive Cost $40,000",
-      "description": "It was released in 1980 and weighed 550lbs. How’s that for a portable drive?",
+      "title": "Dems Praise Biden",
+      "description": "He’s the man Democrats have chosen to take on Trump in November, but just what was Joe Biden’s secret to winning the nomination? Hear how the former vice president was able to unite party support by treating voters like a bunch of know-nothing shit-for-brains.",
+      "youtube_url": "https://www.youtube.com/watch?v=LuT9kgdmeSY",
       "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-2.png"
     },
     {
       "id": 3,
-      "title": "About 90% of the World’s Currency only exists on Computers",
-      "description": "This means only about 10% of the global currency is actually cash",
+      "title": "Hostages revealed that they don't shop at el Walmarto",
+      "description": "A gunman at a Dearborn, MI Walmart is holding dozens of shoppers who say they only happened to be at the tacky megachain by coincidence.",
+      "youtube_url": "https://www.youtube.com/watch?v=repxFQXVsHc",
       "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
     },
     {
       "id": 4,
-      "title": "The password for the Computer Controls of nuclear tipped missiles of the U.S was 00000000 for eight years.",
-      "description": "Even our Developer Singh was amazed",
+      "title": "Judge Ruled: White Girl tried as black adult",
+      "description": "The court ruled a white teen who stabbed a classmate to death will face the jury as a 300-pound black man.  Onion News Network, Fridays at 10/9c on IFC.",
+      "youtube_url": "https://www.youtube.com/watch?v=84phU8of02U",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 5,
+      "title": "Break News: Bullshit!",
+      "description": "Subscribe to The Onion on YouTube: http://bit.ly/xzrBUA \nExcruciating up-to-the-minute coverage of some irrelevant bullshit story that has no ramifications whatsoever.",
+      "youtube_url": "https://www.youtube.com/watch?v=9U4Ha9HQvMo",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 6,
+      "title": "Apple introduces a laptop with no keyboard",
+      "description": "The MacBook Wheel lets consumers accomplish everyday tasks like typing with just a few dozen spins and clicks of a wheel",
+      "youtube_url": "https://www.youtube.com/watch?v=9BnLbv6QYcA",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 7,
+      "title": "President Obama has replaced a highspped rail plan with High Speed bus",
+      "description": "President Obama's proposed high-speed train system will be replaced with a fleet of buses that will rocket along highways at speeds up to 165 mph",
+      "youtube_url": "https://www.youtube.com/watch?v=QNixDlRoMvA",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 8,
+      "title": "High Unemployment rate links to one man with a million jobs",
+      "description": "Oh my god this man has a million jobs!",
+      "youtube_url": "https://www.youtube.com/watch?v=UlRNyiMFTsw",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 9,
+      "title": "New Prius Kills driver to save the environment",
+      "description": "Who would want to buy this car??",
+      "youtube_url": "https://www.youtube.com/watch?v=bXEddCLW3SM",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 10,
+      "title": "Obama Visit's a Denny's to scale back on goals",
+      "description": "Obama is everywhere  helping out the world scale back goals",
+      "youtube_url": "https://www.youtube.com/watch?v=_yiQXPOO1Yo",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 11,
+      "title": "The onion predicts the future",
+      "description": "What will happen in the year 2137?",
+      "youtube_url": "https://www.youtube.com/watch?v=iKC21wDarBo",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 12,
+      "title": "SCientist teaches gorrila about death",
+      "description": "RIP gorrila, rip scientists!",
+      "youtube_url": "https://www.youtube.com/watch?v=CJkWS4t4l0k",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 13,
+      "title": "How to overcome stress",
+      "description": "Visualize it as a greedy creature!",
+      "youtube_url": "https://www.youtube.com/watch?v=Q4PC8Luqiws",
+      "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-3.png"
+    },
+    {
+      "id": 14,
+      "title": "9/11 conspiracy",
+      "description": "An Al Qaeda representative says that claims the U.S. government was behind the attacks on Sept. 11th are demeaning to Al Qaeda.",
+      "youtube_url": "https://www.youtube.com/watch?v=Q_OIXfkXEj0",
       "image_url": "http://thegrowingdeveloper.org/thumbs/1000x1000r/demo_api_folder/tgd-fact-4.png"
     }
   ]
