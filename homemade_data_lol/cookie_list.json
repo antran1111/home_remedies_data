@@ -81,7 +81,7 @@
   },
   {
     "title": 0,
-    "name": "I\'m having a baby cookie!",
+    "name": "I\\'m having a baby cookie!",
     "price": "299",
     "image": "url",
     "webUrl": "link",
@@ -111,12 +111,12 @@
   },
   {
     "title": 0,
-    "name": "I only called you when it\s half time cookie",
-    "price": "3$5$",
+    "name": "I only called you when it\\'s half time cookie",
+    "price": "300",
     "image": "url",
     "webUrl": "link",
     "youTubeUrl": "link",
-    "long_sentence": "Eat this because you can\'t feel me when I\'m dead"
+    "long_sentence": "Eat this because you can\\'t feel me when I\\'m dead"
 
   }
 
